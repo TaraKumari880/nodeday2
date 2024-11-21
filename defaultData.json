@@ -1,0 +1,9 @@
+{
+	"nextTaskID": 1002,
+  "tasks":{
+    "1001": {
+      "taskNameAndDescription": "buy MMTC PAMP Gold 10gm",
+      "taskCompleted": false      
+    }
+  }
+}
